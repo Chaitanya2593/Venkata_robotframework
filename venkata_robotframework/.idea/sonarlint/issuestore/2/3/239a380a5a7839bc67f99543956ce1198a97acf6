@@ -1,0 +1,18 @@
+
+spython:S3776?"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(ù•Ä8ÆÄçæû,
+Spython:S1066D"/Merge this if statement with the enclosing one.(ûÆ»şúÿÿÿÿ8ÆÄçæû,
+~python:S100¹"_Rename method "get_Value_In_IOparmetres" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ƒ¿âé8ÆÄçæû,
+tpython:S100ß"URename method "AES256_decrypt" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÚÏúÜ8ÆÄçæû,
+Bpython:S125d"Remove this commented out code.(Õà¯Ñúÿÿÿÿ8ÆÄçæû,
+ˆpython:S100å"dRename method "first_Char_Higher_Case_String" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ø©Úßøÿÿÿÿ8ÆÄçæû,
+ypython:S100Ø"URename method "AES256_encrypt" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÈÕ¡ßøÿÿÿÿ8ÆÄçæû,
+zpython:S107è"[Method "create_string_attributes" has 8 parameters, which is greater than the 7 authorized.(ø‘Ã’8ÆÄçæû,
+tpython:S3776•"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(„¨×µ8ÆÄçæû,
+ˆpython:S100ï"iRename method "check_If_string_has_only_alphabets" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‡“ä÷8ãÆçû,
+…python:S100‘"fRename method "copy_Contents_From_File_To_File" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(éäÚÊ8ÆÄçæû,
+python:S100•"[Rename method "write_Data_Into_File" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(îéÜ øÿÿÿÿ8ÆÄçæû,
+ƒpython:S100«"_Rename method "set_Value_In_IOparmetres" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(­»‰Çıÿÿÿÿ8ÆÄçæû,
+{python:S117‹"WRename this local variable "sValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(ä¸„¹øÿÿÿÿ8ÆÄçæû,
+ypython:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ïàš‘şÿÿÿÿ8ÆÄçæû,
+~python:S100›"ZRename method "read_Data_From_File" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†„‚Šÿÿÿÿÿ8ÆÄçæû,
+python:S100Û"cRename method "first_Char_Lower_Case_String" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÏÔÌk8ÆÄçæû,
