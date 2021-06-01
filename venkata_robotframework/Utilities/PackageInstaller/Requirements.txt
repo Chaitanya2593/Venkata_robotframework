@@ -54,7 +54,7 @@ socks6==0.0.0
 Twisted==17.9.0
 txaio==2.9.0
 unicodecsv==0.14.1
-urllib3==1.22
+urllib3==1.26.5
 watson-developer-cloud==1.2.1
 win-inet-pton==1.0.1
 xlrd==1.1.0
